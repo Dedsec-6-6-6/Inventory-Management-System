@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# ASP.NET Build Files
+bin/
+obj/
+
+# React
+inventory-ui/node_modules/
+inventory-ui/dist/
+
+# Logs
+*.log
+
+# Environment Files
+.env
