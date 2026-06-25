@@ -100,7 +100,7 @@ SQL Server Database
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/inventory-management-system.git
+git clone https://github.com/Dedsec-6-6-6/Inventory-Management-System.git
 ```
 
 ### Backend Setup
@@ -141,25 +141,6 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots
-
-### Dashboard
-
-(Add dashboard screenshot here)
-
-### Product List
-
-(Add product list screenshot here)
-
-### Add Product
-
-(Add add-product screenshot here)
-
-### Edit Product
-
-(Add edit-product screenshot here)
-
----
 
 ## 🎯 Key Concepts Demonstrated
 
@@ -194,7 +175,7 @@ This project demonstrates:
 
 **Sayyed Faiz**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Dedsec-6-6-6
 
 ---
 
